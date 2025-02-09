@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #000;
-    color: #fff;
+    background-color: #f8f7f7;
+    color: #0e0d0d;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -12,7 +12,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 1rem 2rem;
-    border-bottom: 1px solid #333;
+    border-bottom: 1px solid #070707;
   }
   
   nav .logo {
@@ -22,7 +22,7 @@ body {
   }
   
   nav .nav-links a {
-    color: #ccc;
+    color: #0d0d0d;
     margin: 0 10px;
     text-decoration: none;
   }
@@ -30,7 +30,7 @@ body {
   nav .nav-actions .btn {
     padding: 0.5rem 1rem;
     border: none;
-    color: #fff;
+    color: #0e0e0e;
     background-color: transparent;
     cursor: pointer;
   }
@@ -53,7 +53,7 @@ body {
   
   .hero p {
     font-size: 1.2rem;
-    color: #aaa;
+    color: #0f0f0f;
     margin-bottom: 2rem;
   }
   
@@ -65,7 +65,7 @@ body {
   }
   
   .feature {
-    background: #111;
+    background: #f5f3f3;
     padding: 1.5rem;
     border-radius: 8px;
   }
@@ -79,8 +79,8 @@ body {
   }
   
   .accordion-header {
-    background: #222;
-    color: #fff;
+    background: #5e5d5d;
+    color: #0f0e0e;
     padding: 1rem;
     border: none;
     cursor: pointer;
@@ -91,8 +91,8 @@ body {
   .accordion-content {
     display: none;
     padding: 1rem;
-    background: #333;
-    color: #ccc;
+    background: #5e5d5d;
+    color: #131313;
   }
   
   .experts {
@@ -125,8 +125,8 @@ body {
   
   .contact button {
     padding: 1rem;
-    background: #fff;
-    color: #000;
+    background: #171717;
+    color: #faf8f8;
     border: none;
     border-radius: 5px;
     cursor: pointer;
